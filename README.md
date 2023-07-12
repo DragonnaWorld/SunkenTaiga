@@ -1,3 +1,9 @@
-"# SunkenTaiga" 
+Yo, glad you made it here. Now let's pretend we are changing this very cool asset file.
 
-Changed from other machine
+You must write something beneath this file to prove you were here.
+
+Me first:
+
+LabG was here I guess @@ 
+
+Your turn...
